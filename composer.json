@@ -1,0 +1,8 @@
+{
+    "name": "yurunsoft/composer-package-demo",
+    "autoload": {
+        "psr-4": {
+            "Yurun\\ComposerPackageDemo\\": "src/"
+        }
+    }
+}
